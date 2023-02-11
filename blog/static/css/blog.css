@@ -1,8 +1,8 @@
 .page-header {
-    background-color: #b71818;
+    background-color: #C25100;
     margin-top: 0;
-    margin-bottom: 30px;
-    padding: 15px 15px 15px 30px;
+    margin-bottom: 40px;
+    padding: 20px 20px 20px 40px;
 }
 
 .page-header h1,
@@ -44,7 +44,7 @@ h4 {
 }
 
 .post {
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 
 .post h2 a,
@@ -59,12 +59,12 @@ h4 {
 
 .btn-secondary,
 .btn-secondary:visited {
-    color: #b71818;
+    color: #C25100;
     background: none;
-    border-color: #b71818;
+    border-color: #C25100;
 }
 
 .btn-secondary:hover {
     color: #FFFFFF;
-    background-color: #b71818;
+    background-color: #C25100;
 }
